@@ -1,0 +1,24 @@
+{
+  "name": "route-js",
+  "version": "0.0.1",
+  "description": "This plugin handles routes for both hash and push state.",
+  "main": "route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techfano/routeJS.git"
+  },
+  "keywords": [
+    "javascript",
+    "route",
+    "jquery"
+  ],
+  "author": "Estefano Castañeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techfano/routeJS/issues"
+  },
+  "homepage": "https://github.com/techfano/routeJS#readme"
+}
