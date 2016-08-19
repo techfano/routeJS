@@ -1,0 +1,15 @@
+{
+  "name": "routeJS",
+  "homepage": "https://github.com/techfano/routeJS",
+  "authors": [
+    "Estefano Castañeda <mixc21@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "jquery",
+    "route",
+    "javascript"
+  ],
+  "license": "MIT"
+}
