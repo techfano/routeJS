@@ -1,5 +1,14 @@
 # routeJS
 
+Install:
+
+```Console
+
+bower install routeJS --save
+
+```
+
+
 This plugin handles routes for both hash and push state.
 
 ### How to add routes
