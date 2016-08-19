@@ -1,15 +1,20 @@
 {
-  "name": "routeJS",
+  "name": "route-jS",
   "homepage": "https://github.com/techfano/routeJS",
   "authors": [
     "Estefano Castañeda <mixc21@gmail.com>"
   ],
   "description": "",
-  "main": "",
+  "main": ["route.js"],
   "keywords": [
     "jquery",
     "route",
     "javascript"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
 }
